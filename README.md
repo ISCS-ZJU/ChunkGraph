@@ -1,4 +1,4 @@
-# ChunkGraph
+# ChunkGraph: Efficient Large Graph Processing with Chunk-Based Graph Representation Model
 
 This respository is for following paper:
 **ATC'24 paper:** Efficient Large Graph Processing with Chunk-Based Graph Representation Model.
