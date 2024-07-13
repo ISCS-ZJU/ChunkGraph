@@ -3,7 +3,12 @@
 This respository is for following paper:
 **ATC'24 paper:** Efficient Large Graph Processing with Chunk-Based Graph Representation Model.
 Our implementation ChunkGraph is based on the Ligra system, which is a high-performance graph processing system. 
-You can refer to the [Ligra repository](https://github.com/jshun/ligra) for more details: 
+You can refer to the [Ligra repository](https://github.com/jshun/ligra) for more details. 
+
+Please read the following paper for more details:
+[Rui Wang, Weixu Zong, Shuibing He, Xinyu Chen, Zhenxin Li, Zheng Dang. Efficient Large Graph Processing with Chunk-Based Graph Representation Model. USENIX ATC 2024.](https://www.usenix.org/conference/atc24/presentation/wang-rui)
+
+
 
 
 ## Abstract
